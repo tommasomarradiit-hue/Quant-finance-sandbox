@@ -66,9 +66,7 @@ $$\text{Sharpe Ratio} = \frac{E(R_p) - R_f}{\sigma_p}$$
 ---
 
 ### 🚀 Setup & Execution
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/Quant-finance-sandbox.git](https://github.com/YOUR-USERNAME/Quant-finance-sandbox.git)
-   cd Quant-finance-sandbox
+
+  
 
 
